@@ -1,4 +1,4 @@
-# AWS-Glue-Sagemaker-Churn-Pipeline
+# Customer-churn-pipeline
 
 An end-to-end **Machine Learning Operations (MLOps)** project that predicts customer churn using **Scikit-learn** and deploys the model on **Amazon SageMaker**. The project includes data preprocessing with **AWS Glue Visual ETL**, model deployment, serverless inference using **AWS Lambda**, API exposure through **Amazon API Gateway**, a **Flask** web application, and **Docker** containerization.
 
